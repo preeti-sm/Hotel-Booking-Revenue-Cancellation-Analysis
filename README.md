@@ -65,6 +65,8 @@ Performed using Python:
 * Monthly booking trends
 * Customer country analysis
 
+<img width="1088" height="945" alt="image" src="https://github.com/user-attachments/assets/638e69e0-f0a1-457e-9128-4b7539999ca5" />
+
 <img width="1912" height="1025" alt="image" src="https://github.com/user-attachments/assets/c831b249-5101-45c2-bb49-271a873649d6" />
 
 
